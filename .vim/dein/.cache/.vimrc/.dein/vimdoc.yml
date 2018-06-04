@@ -1,0 +1,8 @@
+---
+name: vivi.vim
+description:  Support to setup Elixir development environment in Vim.
+version: 0.1.0
+author: uochan
+license: MIT LICENSE
+exclude:
+  - .*vital.*
